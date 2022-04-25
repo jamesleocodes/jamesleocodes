@@ -2,12 +2,12 @@ Hi, I'm James Leo
 
 
 
-I'm a machine larning engineer based in Hong Kong.
+I'm a Machine Learning Researcher/Cheminformatics Scientist based in Hong Kong.
 
-- 👋 Currently, I am working on computer vision projects. 
+- 👋 Currently, I am working on physico-chemical properties(i.e LogP/LogD, PSA etc..) for drug development projects. 
 - 👀 I’m interested in coding(code for fun) with python, C/C++ and matlab. 
 - 🌱 I’m currently learning javascript.
-- 📫 How to reach me ...
+
 
 <!---
 jamesleocodes/jamesleocodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
