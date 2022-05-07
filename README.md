@@ -6,7 +6,7 @@ I'm a Machine Learning Researcher/Cheminformatics Scientist at University of Wat
 
 - 👋 Currently, I am working on building algorithms to predict physico-chemical properties(i.e LogP/LogD, PSA etc..) for drug development projects. 
 - 👀 I’m interested in coding(code for fun) with python, C/C++ and matlab. 
-- 🌱 I’m currently learning javascript.
+
 
 
 <!---
