@@ -7,6 +7,7 @@ I'm a Machine Learning Researcher/Cheminformatics Scientist at Centre for Eye an
 👋 These are the projects I have completed and currently working on at CEVR. 
   
 June 2021 -Dec 2021
+
 	Project-1 -Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time
 -	Curated datasets from a variety of public databases, like PubChem and CheMBL 
 -	Developed a machine learning models and deep learning models to rank molecules for the drug candidate. 
