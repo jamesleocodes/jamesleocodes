@@ -4,8 +4,9 @@ Hi, I'm James Leo
 
 I'm a Machine Learning Researcher/Cheminformatics Scientist at Centre for Eye and Vision Research (CEVR, Hong Kong Science Park.
 
-- 👋 These are the projects that I have done at CEVR .
+- 👋 These are the projects I have completed and currently working on at CEVR. 
   
+June 2021 -Dec 2021
 	Project-1 -Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time
 
 -	Curated datasets from a variety of public databases, like PubChem and CheMBL 
@@ -14,12 +15,13 @@ I'm a Machine Learning Researcher/Cheminformatics Scientist at Centre for Eye an
 -	Published in American Chemical Society (ACS) recently. More details can be found in here https://pubs.acs.org/doi/10.1021/acs.jcim.2c01373
 -	GitHub Repository: https://github.com/jamesleocodes/p_chem_CEVR
 
+On-going
 	Project-1.1 – Developing iMoleQ which is a cloud-based web application designed to predict molecular properties. 
 -	The frontend development of iMoleQ has been completed, and you can access it at www.imoleq.com.
 -	Currently, we are in the process of integrating the backend with the API and server-side components.
 -	GitHub Repository: https://github.com/jamesleocodes/iMoleQ?tab=readme-ov-file
 
-Project Leader, Jan 2022 -Dec 2022
+Jan 2022 -Dec 2022
 	Project-2 - AI-Enabled Diagnosis of Parkinson’s Disease from Eye Movement Data
 
 -	Fitted with analytical wavefunction to simplify the eye movement data.
@@ -28,14 +30,14 @@ Project Leader, Jan 2022 -Dec 2022
 -	The innovation from this research is preparing for patent to submit to the U.S. Patent and Trademark Ofﬁce (USPTO).
 -	GitHub Repository: https://github.com/jamesleocodes/eye_movement
 
-Project Leader, Jan 2023 -Aug 2023
+Jan 2023 -Aug 2023
 	Project-3- Diagnosing Diabetic Retinopathy: A Machine Learning Approach to CIL LC-MS Analysis of Tear Sample Metabolites 
 
 -	Implemented a project on biomarker discovery for diabetic retinopathy disease using metabolomic data processing and machine learning. 
 -	Managed data cleanup, feature engineering, and utilized tree-based algorithms (Gradient Boosting, XGBoost, Random Forest) for accurate disease classification, with potential for real-world clinical diagnostic application. The paper related to the research will be published in American Chemical Society (ACS) soon.
 -	GitHub link: https://github.com/jamesleocodes/Diabetic_Retinopathy_ML
 
-Project Leader, Sep 2023 -Present
+Sep 2023 -Present
 	Project-4
 Machine Learning-Assisted Identification of Potential Metabolite Biomarkers for Glaucoma Diagnosis through Serum Metabolomic Analysis
 
@@ -46,7 +48,7 @@ Machine Learning-Assisted Identification of Potential Metabolite Biomarkers for 
 -	The paper related to the research will be published in American Chemical Society (ACS) soon.
 -	GitHub link: https://github.com/jamesleocodes/glauSerum
 
--   One is to build algorithms to predict physico-chemical properties(i.e LogP/LogD, PSA etc..) and retention time for drug development projects. The other one is to classify between Healthy control and Parkinson disease by using eyemovement data.
+
 - 👀 I’m interested in coding(code for fun) with python,R, C/C++, SQL and matlab.
 
 
