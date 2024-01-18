@@ -4,7 +4,7 @@ Hi, I'm James Leo
 
 I'm a Machine Learning Researcher/Cheminformatics Scientist at Centre for Eye and Vision Research (CEVR, Hong Kong Science Park.
 
-- 👋 These are the projects I have completed and currently working on at CEVR. 
+👋 These are the projects I have completed and currently working on at CEVR. 
   
 June 2021 -Dec 2021
 	Project-1 -Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time
@@ -49,7 +49,7 @@ Machine Learning-Assisted Identification of Potential Metabolite Biomarkers for 
 -	GitHub link: https://github.com/jamesleocodes/glauSerum
 
 
-- 👀 I’m interested in coding(code for fun) with python,R, C/C++, SQL and matlab.
+👀 I’m interested in coding(code for fun) with python,R, C/C++, SQL and matlab.
 
 
 
