@@ -7,6 +7,39 @@ Hi there! 👋 I'm **Zaw Myo Win**,a passionate data scientist with expertise in
 - Building predictive models and machine learning pipelines 🤖
 - Streamlining data workflows and driving data-driven decisions 🚀
 
+# Unleashing the Power of Data
+
+### About Me:
+```javascript
+const aboutMe = {
+  name: "Harry",
+  pronouns: ["he", "him"],
+  profession: "Data Scientist @ Unleashing Insights",
+  expertise: [
+    "data analysis",
+    "machine learning pipelines",
+    "big data platforms"
+  ],
+  preferredTechStack: [
+    "Python",
+    "SQL",
+    "Apache Spark",
+    "TensorFlow",
+    "Tableau"
+  ],
+  canUse: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Selenium",
+    "BeautifulSoup"
+  ],
+};
+
+console.log(aboutMe);
+
+
+
 ---
 
 ### Socials:
