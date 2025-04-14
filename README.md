@@ -15,7 +15,7 @@ Connect with me on:
 
 ---
 
-### Tech Stack:
+# Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-blue?logo=php&logoColor=white)
