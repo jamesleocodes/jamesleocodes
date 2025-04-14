@@ -71,7 +71,7 @@ Connect with me on:
 ---
 
 ### GitHub Stats:
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=jamesleocodes&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jamesleocodes&theme=radical)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesleocodes&layout=compact&theme=radical)
