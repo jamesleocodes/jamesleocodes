@@ -10,13 +10,18 @@ Hi there! 👋 I'm **Zaw Myo Win**,a passionate data scientist with expertise in
 const aboutMe = {
   name: "Zaw Myo Win",
   pronouns: ["he", "him"],
-  profession: "Data Scientist (a.k.a. Data Whisperer)",
-  specialSkills: "Turning raw data into jaw-dropping insights—like a magician, but with less smoke and more Spark!",
-  funFact: "Believes pizza and Python can solve most problems (in that order)",
-  signatureLine: "Just a human, making machines jealous!"
+  profession: "Data Scientist (or so the machines tell me)",
+  hobbies: [
+    "Taming wild datasets",
+    "Convincing algorithms to do my bidding",
+    "Arguing with AI assistants (spoiler: they always win)"
+  ],
+  funFact: "Once asked a machine to teach me how to dance—let's just say, it 'crashed.'",
+  lifePhilosophy: "If at first you don't succeed, call it a feature and move on."
 };
 
-console.log("About Me:", aboutMe);
+console.log("Here's me in a nutshell:", aboutMe);
+
 
 ```
 
