@@ -1,35 +1,24 @@
 
 # Unleashing the Power of Data
+### About Me:
+Hi there! 👋 I'm **Zaw Myo Win**,a passionate data scientist with expertise in:
+- Analyzing complex datasets to uncover actionable insights 📊
+- Building predictive models and machine learning pipelines 🤖
+- Streamlining data workflows and driving data-driven decisions 🚀
 
 ```javascript
 const aboutMe = {
   name: "Zaw Myo Win",
   pronouns: ["he", "him"],
-  profession: "Data Scientist @ Unleashing Insights",
-  expertise: [
-    "data analysis",
-    "machine learning pipelines",
-    "big data platforms"
-  ],
-  preferredTechStack: [
-    "Python",
-    "SQL",
-    "Apache Spark",
-    "TensorFlow",
-    "Tableau"
-  ],
-  canUse: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Selenium",
-    "BeautifulSoup"
-  ],
+  profession: "Data Scientist (a.k.a. Data Whisperer)",
+  specialSkills: "Turning raw data into jaw-dropping insights—like a magician, but with less smoke and more Spark!",
+  funFact: "Believes pizza and Python can solve most problems (in that order)",
+  signatureLine: "Just a human, making machines jealous!"
 };
 
-console.log(aboutMe);
-```
+console.log("About Me:", aboutMe);
 
+```
 
 ---
 
