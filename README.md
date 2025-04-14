@@ -6,13 +6,9 @@ Hi there! 👋 I'm **Zaw Myo Win**,a passionate data scientist with expertise in
 - Analyzing complex datasets to uncover actionable insights 📊
 - Building predictive models and machine learning pipelines 🤖
 - Streamlining data workflows and driving data-driven decisions 🚀
-
-# Unleashing the Power of Data
-
-### About Me:
 ```javascript
 const aboutMe = {
-  name: "Harry",
+  name: "Zaw Myo Win",
   pronouns: ["he", "him"],
   profession: "Data Scientist @ Unleashing Insights",
   expertise: [
@@ -38,7 +34,6 @@ const aboutMe = {
 
 console.log(aboutMe);
 ```
-
 
 
 ---
