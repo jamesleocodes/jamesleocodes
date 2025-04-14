@@ -11,8 +11,7 @@ Hi there! 👋 I'm **Zaw Myo Win**,a passionate data scientist with expertise in
 
 ### Socials:
 Connect with me on:
-- [Facebook](https://www.facebook.com/) 🌐
-- [LinkedIn](https://www.linkedin.com/) 💼
+- [LinkedIn](https://www.linkedin.com/in/jameszaw//) 💼
 
 ---
 
