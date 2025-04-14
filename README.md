@@ -25,13 +25,6 @@ console.log("Here's me in a nutshell:", aboutMe);
 
 ```
 
----
-
-### Socials:
-Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/jameszaw//) 💼
-
----
 
 # Tech Stack:
 
