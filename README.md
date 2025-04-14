@@ -86,7 +86,7 @@ Connect with me on:
 ---
 
 ### Random Data Quote:
-<blockquote style="background-color: #2b2b2b; color: #00d4ff; padding: 15px; border-radius: 10px; border-left: 5px solid #00d4ff;">
+<blockquote style="background-color: #000000; color: #00d4ff; padding: 15px; border-radius: 10px; border: 1px solid #00d4ff;">
     <p style="margin: 0; font-style: italic;">“Data is the new oil, and analytics is the combustion engine.”</p>
     <p style="margin: 5px 0 0; text-align: right; color: #ff69b4;">— Peter Sondergaard</p>
 </blockquote>
