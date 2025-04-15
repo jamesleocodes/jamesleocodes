@@ -69,7 +69,9 @@ console.log("Here's me in a nutshell:", aboutMe);
 ### GitHub Stats:
 
 
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jamesleocodes&theme=radical)
+
 
 
 
