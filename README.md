@@ -24,7 +24,7 @@ console.log("Here's me in a nutshell:", aboutMe);
 
 
 ```
-
+My published research paper on healthcare datasets, with a focus on machine learning applications, is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=dkV_s6EAAAAJ&view_op=list_works&sortby=pubdate).
 
 # Tech Stack:
 
