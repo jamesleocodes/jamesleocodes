@@ -72,9 +72,7 @@ My published research papers and patents, focusing on machine learning applicati
 
 
 
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jamesleocodes&theme=radical)
-
 
 
 
