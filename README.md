@@ -1,10 +1,10 @@
 
 # Unleashing the Power of Data
 ### About Me:
-Hi there! 👋 I'm **Zaw Myo Win**,a passionate data scientist with expertise in:
-- Analyzing complex datasets to uncover actionable insights 📊
-- Building predictive models and machine learning pipelines 🤖
-- Streamlining data workflows and driving data-driven decisions 🚀
+Hi there! 👋 I'm **Zaw Myo Win**,a passionate developer who love data with expertise in:
+- Building scalable data architectures for seamless processing and integration ⚙️
+- Creating robust backend systems to drive data-powered applications 🔧
+- Optimizing data workflows to boost decision-making 🚀
 
 ```javascript
 const aboutMe = {
