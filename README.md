@@ -10,7 +10,7 @@ Hi there! 👋 I'm **Zaw Myo Win**,a passionate developer who love data with exp
 const aboutMe = {
   name: "Zaw Myo Win",
   pronouns: ["he", "him"],
-  profession: "Data Scientist (or so the machines tell me)",
+  profession: "Data Engineer (or so the machines tell me)",
   hobbies: [
     "Taming wild datasets",
     "Convincing algorithms to do my bidding",
