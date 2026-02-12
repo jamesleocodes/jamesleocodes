@@ -76,7 +76,8 @@ My published research papers and patents, focusing on machine learning applicati
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jamesleocodes&theme=radical)
 
 
-
+## 📊 Language Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 
 
