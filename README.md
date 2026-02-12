@@ -79,7 +79,9 @@ My published research papers and patents, focusing on machine learning applicati
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesleocodes&layout=compact&theme=radical" />
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesleocodes&layout=compact&theme=radical)
+
 
 
 
