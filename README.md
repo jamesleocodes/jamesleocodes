@@ -80,7 +80,8 @@ My published research papers and patents, focusing on machine learning applicati
 
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesleocodes&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesleocodes&layout=compact)
+
 
 
 
