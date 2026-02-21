@@ -1,11 +1,11 @@
 
-# Unleashing the Power of Data
+# Crafting Code That Powers Ideas
 ### About Me:
-Hi there! 👋 I'm **Zaw Myo Win**,a passionate developer who love data with expertise in:
-- Building scalable data architectures for seamless processing and integration ⚙️
-- Creating robust backend systems to drive data-powered applications 🔧
-- Optimizing data workflows to boost decision-making 🚀
-
+Hi there! 👋 I'm **Zaw Myo Win**,a Software Developer who turns ideas into scalable, reliable systems. I specialize in::
+- Designing and building clean, maintainable backend architectures ⚙️
+- Developing scalable applications that people actually enjoy using 🔧
+- Writing code today that future-me won’t completely hate 😌
+  
 ```javascript
 const aboutMe = {
   name: "Zaw Myo Win",
@@ -21,6 +21,7 @@ const aboutMe = {
 };
 
 console.log("Here's me in a nutshell:", aboutMe);
+
 
 
 ```
