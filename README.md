@@ -10,18 +10,17 @@ Hi there! 👋 I'm **Zaw Myo Win**,a Software Developer who turns ideas into sca
 const aboutMe = {
   name: "Zaw Myo Win",
   pronouns: ["he", "him"],
-  profession: "Data Engineer (or so the machines tell me)",
+  profession: "Software Developer (or so the compiler tells me)",
   hobbies: [
-    "Taming wild datasets",
-    "Convincing algorithms to do my bidding",
-    "Arguing with AI assistants (spoiler: they always win)"
+    "Turning coffee into clean code",
+    "Building features no one asked for but everyone now depends on",
+    "Refactoring for fun (and sometimes for survival)"
   ],
-  funFact: "Once asked a machine to teach me how to dance—let's just say, it 'crashed.'",
-  lifePhilosophy: "If at first you don't succeed, call it a feature and move on."
+  funFact: "Once fixed a bug by accident and still took credit for it.",
+  lifePhilosophy: "If it compiles, ship it. If it doesn’t, blame the cache."
 };
 
 console.log("Here's me in a nutshell:", aboutMe);
-
 
 
 ```
